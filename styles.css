@@ -175,6 +175,7 @@ p {
 
 .section-center {
   width: 90vw;
+  /* height: 100vh; */
   margin: 0 auto;
   max-width: 1170px;
 }
